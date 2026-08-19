@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-An end-to-end data analytics project using **Sqlite3, Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze customer churn, retention, revenue risk, and customer behavior.
+An end-to-end data analytics project using **SQL, Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze customer churn, retention, revenue risk, and customer behavior.
 
 ## 📊 Key Results
 
@@ -16,6 +16,16 @@ An end-to-end data analytics project using **Sqlite3, Python, Pandas, NumPy, Mat
 - Referral customers show **83.33% churn**
 - Support escalations show a strong relationship with churn
 - Karnataka, Meghalaya, and Telangana have the highest observed churn rates
+
+## 📈 Visualizations
+
+### Churn Correlation Heatmap
+
+![Churn Correlation Heatmap](visualizations/Churn_Correlation_Heatmap.png)
+
+### Customer Churn Pairplot
+
+![Churn Pairplot](visualizations/Churn_Pairplot.png)
 
 ## 🛠️ Tools Used
 
