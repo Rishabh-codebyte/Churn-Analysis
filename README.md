@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-An end-to-end data analytics project using **SQL, Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze customer churn, retention, revenue risk, and customer behavior.
+An end-to-end data analytics project using **Sqlite3, Python, Pandas, NumPy, Matplotlib, and Seaborn** to analyze customer churn, retention, revenue risk, and customer behavior.
 
 ## 📊 Key Results
 
